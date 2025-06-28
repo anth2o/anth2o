@@ -3,7 +3,7 @@ title: "Domain Adaptation"
 type: page
 ---
 
-![Gradient Reversal Layer](/projects/grl.png)
+![Gradient Reversal Layer](/anth2o/projects/grl.png)
 
 # Classification and Domain Adaptation on MNIST and SVHN datasets
 
