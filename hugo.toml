@@ -1,3 +1,4 @@
+baseURL = "https://anth2o.github.io"
 defaultContentLanguage = "en"
 languageCode = "en"
 theme = "gokarna"
