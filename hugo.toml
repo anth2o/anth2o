@@ -15,7 +15,7 @@ title = "Antoine Hoorelbeke"
     {name = "linkedin", url = "https://www.linkedin.com/in/antoine-hoorelbeke-3953a390/"},
     {name = "stackoverflow", url = "https://stackoverflow.com/users/8205168/antoine"},
   ]
-[menu]  
+[menu]
   [[menu.main]]
     name = "Home"
     url = "/"
@@ -23,8 +23,8 @@ title = "Antoine Hoorelbeke"
     pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
-    name = "Jobs"
-    url = "/jobs/"
+    name = "Work"
+    url = "/work/"
     weight = 2
     pre = "<span data-feather='briefcase'></span>"
 
