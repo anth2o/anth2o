@@ -41,4 +41,4 @@ Projects:
 
 ![Ginette](https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_1090100.png)
 
-Intensive two-year preparatory course for the competitive exams of french engineering schools.
+Intensive two-year preparatory course for the competitive exams of French engineering schools.
